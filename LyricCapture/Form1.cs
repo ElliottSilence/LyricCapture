@@ -246,7 +246,7 @@ namespace LyricCapture
                     MessageBox.Show(this, "保存成功！", "提示");
                 }
             }
-            else if (song.NoLyric){
+            else if (song != null && song.NoLyric){
                 MessageBox.Show(this, "纯音乐，无歌词！", "无需保存");
             }
             else
