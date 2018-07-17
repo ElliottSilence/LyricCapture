@@ -1,7 +1,10 @@
 # LyricCapture
 LyricCapture是一个下载lrc歌词和试听的小程序，目前支持网易云音乐和QQ音乐
 
-# 使用方法
+## 下载
+* [LyricCapture_v1.0](https://github.com/ElliottSilence/LyricCapture/releases)
+
+## 使用方法
 填入对应的歌曲ID即可进行搜索下载。
 
 歌曲ID可以通过歌曲详情页的url来获取，例如：  
